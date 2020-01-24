@@ -2,7 +2,7 @@
 
 #### Durée : 50min / Niveau : Intermédiaire
 
-[**Slides**](https://github.com/HaythemZ/Snowcamp2020/master/REX_event_sourcing.pdf)
+[**Slides**](https://github.com/HaythemZ/Snowcamp2020/blob/master/REX_event_sourcing.pdf)
 
 L'architecture Event Sourcing est de plus en plus adoptée dans les projets. Cependant réussir son implémentation demande beaucoup d'efforts et de rigueur.
 
